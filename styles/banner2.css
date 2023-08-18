@@ -1,0 +1,32 @@
+.banner2{    
+    background: var(--azul-degrade);
+    color: var(--branco);
+    text-align: center;    
+    align-items: center;
+}
+
+.banner2__titulo{
+    background: var(--azul-degrade);
+    font-size: 40px;
+    color: var(--branco);
+    align-items: center;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 50px    
+}
+.banner2__descricao{
+    text-indent: 3%;
+	line-height: 1.8em;
+    text-align: center;
+    margin: 0 20% 2% 20%;
+    font-style: italic;
+}
+.banner2__texto{
+    text-indent: 3%;
+	line-height: 1.8em;
+    text-align: justify;
+    margin: 0 15% 1% 15%;
+     
+    
+    
+}
